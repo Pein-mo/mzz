@@ -3,7 +3,7 @@
 
     $target = '/www/wwwroot/git.mo1120.com'; // 生产环境web目录
     //密钥
-    $secret = "mozhenzhu";
+    $secret = "q20031120";
     $wwwUser = 'www';
     $wwwGroup = 'www';
 
