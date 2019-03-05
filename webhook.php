@@ -1,6 +1,6 @@
 <?php
 
-
+    
     $target = '/www/wwwroot/git.mo1120.com'; // 生产环境web目录
     //密钥
     $secret = "q20031120";
