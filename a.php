@@ -1,4 +1,6 @@
-<?php phpinfo();
+<?php 
+
+echo 1;
 
 
 
